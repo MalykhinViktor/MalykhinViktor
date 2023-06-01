@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <img src="" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQzYjYxNWM0YmRiNTcwMzZhZWIzOTExNTc5M2IxOGM1NmJmNTE3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/u1WhXLjwgcXpHJBMRM/giphy.gif" width="400"/>
 
 </div>
 
