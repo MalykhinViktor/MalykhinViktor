@@ -58,6 +58,13 @@ I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.
 
 - :mailbox:How to reach me: (vic.malykhin@yandex.ru)
 
+<h3>
+  You can get acquainted with them in various branches of this repository
+  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+</h3>
+<h4>
+-🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Data Analyticsl projects</a>
+</h4>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -75,12 +82,7 @@ I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.
 </div>
 
 
-<h3>
-  You can get acquainted with them in various branches of this repository
-  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
-</h3>
 
--🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Data Analyticsl projects</a>
 
 ### Courses
 -  🧑‍💻<a href="https://github.com/JavaRush" target="_blank">JavaRush</a> 
