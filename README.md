@@ -65,6 +65,7 @@ I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.
 <h4>
 -🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Data Analyticsl projects</a>
 </h4>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
