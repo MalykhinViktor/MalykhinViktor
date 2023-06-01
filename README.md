@@ -59,7 +59,7 @@ I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.
 - :mailbox:How to reach me: (vic.malykhin@yandex.ru)
 
 <h3>
-  You can get acquainted with them in various branches of this repository
+  You can get acquainted with my projects in various sections of this repository
   <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 </h3>
 
