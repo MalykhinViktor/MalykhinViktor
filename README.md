@@ -79,7 +79,7 @@ I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.
   You can get acquainted with them in various branches of this repository
   <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 </h3>
-
+🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Data Analyticsl projects</a>
 ### Courses
 -  🧑‍💻<a href="https://github.com/JavaRush" target="_blank">JavaRush</a> 
 -  🛢<a href="https://practicum.yandex.ru/" target="_blank">Yandex_Practicum</a> 
