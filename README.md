@@ -63,7 +63,8 @@ I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.
   <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 </h3>
 
--🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Data Analyticsl projects - Yandex Practicum.</a>
+- 🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank"> Yandex Practicum - Educational Data Analytics projects.</a>
+- 💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/main/README.md" target="_blank">Data Analyticsl projects - Real data .</a>
 
 
 
