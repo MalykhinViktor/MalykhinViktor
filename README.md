@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQzYjYxNWM0YmRiNTcwMzZhZWIzOTExNTc5M2IxOGM1NmJmNTE3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/u1WhXLjwgcXpHJBMRM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SdICLQnNxF6y3WuVwa/giphy.gif" width="200"/>
 
 </div>
 
@@ -29,71 +29,24 @@ Here are some ideas to get you started:
 
 
 <h1>
-  hey there
+  
+Привет рад поделиться с вами моими грамотами и благодарностями от заказчиков
+
   <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="50px"/>
 </h1>
 
 
 <h2>
-  My name is Viktor Malykhin
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- 
+  Hi, I am glad to share with you my certificates and thanks from customers
+  <img src="https://media3.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif?cid=ecf05e47490op641ieduiwas6ubmyczua53d8tlqufz74i4d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50px"/>
 </h2>
-   <a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-<h3>
-  You can get acquainted with my projects in various sections of this repository
-  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
-</h3>
 
-- 🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank"> Yandex Practicum - Educational Data Analytics projects.</a>
-- 💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/main/README.md" target="_blank">Data Analyticsl projects - Real data .</a>
-        
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIzMjViNmNlNTJjMzU4ODY2ZGU4OTNlZWNjNjY2ZWU1YzBhZWFkNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-</div>
 
-### :man_technologist: About Me :
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
+:office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
-I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
-- 🏴󠁧󠁢󠁥󠁮 Foreign language proficiency - English b1, native Russian
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I read tech articles and Surf 🏄.
-
-- :mailbox:How to reach me: (vic.malykhin@yandex.ru)
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Go back to projects</a>
+:office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Go back to the main profile!</a>
 
 
 
-
-
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://avatars.mds.yandex.net/i?id=d5c2d9a497fc8216f7b5d78607df1b190fff5918-9215233-images-thumbs&n=13" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=1x&id=BQJc3mm8NGYs&format=png" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-
-
-
-### Courses
--  🧑‍💻<a href="https://github.com/JavaRush" target="_blank">JavaRush</a> 
--  🛢<a href="https://practicum.yandex.ru/" target="_blank">Yandex_Practicum</a> 
--  👨‍💼 IT Product Management, Suvorov IT
