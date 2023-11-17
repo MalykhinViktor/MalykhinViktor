@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 </h3>
 
-- 🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank"> Yandex Practicum - Educational Data Analytics projects.</a>
+- 🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum#readme" target="_blank"> Yandex Practicum - Educational Data Analytics projects.</a>
 - 💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/main/README.md">Data Analyticsl projects - Real data .</a>
 - 📃 <a href="https://github.com/MalykhinViktor/MalykhinViktor/tree/certificates_and_commendations" target="_blank">Certificates and commendations- Real data .</a>
 
