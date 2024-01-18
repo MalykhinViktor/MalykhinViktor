@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum#readme" target="_blank"> Yandex Practicum - Educational Data Analytics projects.</a>
 - 💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/main/README.md">Data Analyticsl projects - Real data .</a>
 - 📃 <a href="https://github.com/MalykhinViktor/MalykhinViktor/tree/certificates_and_commendations" target="_blank">Certificates and commendations.</a>
-- 🧑‍💻 <a href="https://github.com/MalykhinViktor/MalykhinViktor/tree/diplomas" target="_blank"> Diplomas .</a>
+- 🧑‍💻 <a href="https://github.com/MalykhinViktor/MalykhinViktor/tree/diplomas" target="_blank"> Diplomas.</a>
         
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIzMjViNmNlNTJjMzU4ODY2ZGU4OTNlZWNjNjY2ZWU1YzBhZWFkNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
