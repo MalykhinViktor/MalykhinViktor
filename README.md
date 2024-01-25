@@ -75,7 +75,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="80px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="80px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" width="80px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm.eps" width="80px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="80px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="80px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" width="80px"/>
