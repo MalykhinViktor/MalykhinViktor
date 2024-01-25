@@ -53,10 +53,9 @@ Here are some ideas to get you started:
 
 
 
-**- :mailbox:Как связаться со мной: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+**-Как связаться со мной  :mailbox:почта: (vic.malykhin@yandex.ru)**  :telephone_receiver: **Telegram https://t.me/Viktor_Malykhin** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJjY210Nmt2Y29kcWNxMXZhem91MnczYmZoc2k5aDViMW11ZXZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DoWqmz4TGL3Tk9jwTZ/giphy.gif" width="40px"/>
 
 
-:office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Вернуться к профилю!</a>
 
 
 
