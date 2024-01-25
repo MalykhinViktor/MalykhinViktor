@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </a> 
 <h3>
  Предлагаю вам ознакомится с моими проектами
-  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+  <img src="https://media.giphy.com/media/S3uJcUs5eJjSAwOcmL/giphy.gif" width="50px"/>
 </h3>
 
 :office:  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/edit/main/README.md" target="_blank"> Учебные проекты Яндекс практикум!</a>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h4>
  Мои дипломы сертификаты и благодарности !
-  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+  <img src="https://media.giphy.com/media/zIyUCdIJBS87Dznq8G/giphy.gif" width="40px"/>
 </h4>
 
 📃  <a href="https://github.com/MalykhinViktor/MalykhinViktor/blob/diplomas/README.md" target="_blank"> Дипломы и сертификпты!</a>
