@@ -43,9 +43,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 <h3>
- Предлагаю вам ознакомится с  моими благодарностями  за проделанные проекты 
+ Предлагаю вам ознакомится с моими проектами
   <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 </h3>
+
+:office:  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/edit/main/README.md" target="_blank"> Учебные проекты Яндекс практикум!</a>
+
+:globe_with_meridians:  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/edit/main/README.md" target="_blank"> Freelance проекты !</a>
+
 
 
 **- :mailbox:Как связаться со мной: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
