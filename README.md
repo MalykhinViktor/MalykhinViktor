@@ -61,6 +61,27 @@ Here are some ideas to get you started:
 
 🎉  <a href="https://github.com/MalykhinViktor/MalykhinViktor/blob/certificates_and_commendations/README.md" target="_blank"> Мои благодарности!</a>
 
+
+
+### :hammer_and_wrench: Языки и инструменты :
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" width="80px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm.eps" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" width="80px"/>
+ 
+</div>
+
 **-Как связаться со мной  :mailbox:почта: (vic.malykhin@yandex.ru)**  :telephone_receiver: **Telegram https://t.me/Viktor_Malykhin** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJjY210Nmt2Y29kcWNxMXZhem91MnczYmZoc2k5aDViMW11ZXZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DoWqmz4TGL3Tk9jwTZ/giphy.gif" width="40px"/>
 
 
