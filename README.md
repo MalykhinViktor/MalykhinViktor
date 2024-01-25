@@ -36,10 +36,6 @@ Here are some ideas to get you started:
 </h1>
 
 
-<h2>
-  Hi, I am glad to share with you my certificates and thanks from customers
-  <img src="https://media3.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif?cid=ecf05e47490op641ieduiwas6ubmyczua53d8tlqufz74i4d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50px"/>
-</h2>
 
 
 🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
