@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <h1>
-  Привет всем. 
+  Привет всем1. 
   <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="50px"/>
 </h1>
 
