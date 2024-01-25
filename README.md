@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/S3uJcUs5eJjSAwOcmL/giphy.gif" width="50px"/>
 </h3>
 
-:office:  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/edit/main/README.md" target="_blank"> Учебные проекты Яндекс практикум!</a>
+:office:  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/blob/main/README.md" target="_blank"> Учебные проекты Яндекс практикум!</a>
 
 :globe_with_meridians:  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/main/README.md" target="_blank"> Freelance проекты!</a>
 
