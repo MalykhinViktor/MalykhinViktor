@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 :office:  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/edit/main/README.md" target="_blank"> Учебные проекты Яндекс практикум!</a>
 
-:globe_with_meridians:  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/edit/main/README.md" target="_blank"> Freelance проекты!</a>
+:globe_with_meridians:  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/main/README.md" target="_blank"> Freelance проекты!</a>
 
 
 <h4>
