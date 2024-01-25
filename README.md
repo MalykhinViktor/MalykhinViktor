@@ -49,9 +49,17 @@ Here are some ideas to get you started:
 
 :office:  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/edit/main/README.md" target="_blank"> Учебные проекты Яндекс практикум!</a>
 
-:globe_with_meridians:  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/edit/main/README.md" target="_blank"> Freelance проекты !</a>
+:globe_with_meridians:  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/edit/main/README.md" target="_blank"> Freelance проекты!</a>
 
 
+<h4>
+ Мои дипломы сертификаты и благодарности !
+  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+</h4>
+
+📃  <a href="https://github.com/MalykhinViktor/MalykhinViktor/blob/diplomas/README.md" target="_blank"> Дипломы и сертификпты!</a>
+
+🎉  <a href="https://github.com/MalykhinViktor/MalykhinViktor/blob/certificates_and_commendations/README.md" target="_blank"> Мои благодарности!</a>
 
 **-Как связаться со мной  :mailbox:почта: (vic.malykhin@yandex.ru)**  :telephone_receiver: **Telegram https://t.me/Viktor_Malykhin** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJjY210Nmt2Y29kcWNxMXZhem91MnczYmZoc2k5aDViMW11ZXZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DoWqmz4TGL3Tk9jwTZ/giphy.gif" width="40px"/>
 
