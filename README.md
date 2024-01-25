@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 <h3>
- Предлагаю вам ознакомится с моими проектами
+ Предлагаю вам ознакомится с моими сертификатами и благодарностями
   <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 </h3>
 
