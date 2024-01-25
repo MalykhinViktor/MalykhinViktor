@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SdICLQnNxF6y3WuVwa/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTE0Z3V2bTdlMDE1ejQ0Z2kzd3g0ZjM2ZXU3azVjbjA2MW1oN2lwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bhGtLY90v15Ge4KaN0/giphy.gif" width="200"/>
 
 </div>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h1>
   
-Привет рад поделиться с вами моими грамотами и благодарностями от заказчиков
+Привет рад поделиться с вами моими  дипломами и сетртификатами. 
 
   <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="50px"/>
 </h1>
