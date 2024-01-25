@@ -61,8 +61,11 @@ Here are some ideas to get you started:
 
 🎉  <a href="https://github.com/MalykhinViktor/MalykhinViktor/blob/certificates_and_commendations/README.md" target="_blank"> Мои благодарности!</a>
 
-
-
+### :man_technologist: Обо мне:
+Я аналитик данных  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+- :telescope: Уверено владею Английским языком.
+- :seedling: Изучаю оптимальные алгоритмы работы с большими данными .
+- :zap: В свободное время я люблю заниматься  спортом и читать техническую литературу. 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="80px"/>
@@ -82,7 +85,7 @@ Here are some ideas to get you started:
  
 </div>
 
-**-Как связаться со мной  :mailbox:почта: (vic.malykhin@yandex.ru)**  :telephone_receiver: **Telegram https://t.me/Viktor_Malykhin** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJjY210Nmt2Y29kcWNxMXZhem91MnczYmZoc2k5aDViMW11ZXZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DoWqmz4TGL3Tk9jwTZ/giphy.gif" width="40px"/>
+### **Как связаться со мной  :mailbox:почта: (vic.malykhin@yandex.ru)**  :telephone_receiver: **Telegram https://t.me/Viktor_Malykhin** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJjY210Nmt2Y29kcWNxMXZhem91MnczYmZoc2k5aDViMW11ZXZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DoWqmz4TGL3Tk9jwTZ/giphy.gif" width="40px"/>
 
 
 
