@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/zIyUCdIJBS87Dznq8G/giphy.gif" width="40px"/>
 </h4>
 
-📃  <a href="https://github.com/MalykhinViktor/MalykhinViktor/blob/diplomas/README.md" target="_blank"> Дипломы и сертификпты!</a>
+📃  <a href="https://github.com/MalykhinViktor/MalykhinViktor/blob/diplomas/README.md" target="_blank"> Дипломы и сертификаты!</a>
 
 🎉  <a href="https://github.com/MalykhinViktor/MalykhinViktor/blob/certificates_and_commendations/README.md" target="_blank"> Мои благодарности!</a>
 
